@@ -10,10 +10,10 @@ module.exports = {
             title,
             description,
             value,
-            ong_idß
+            ong_id
         })
 
-        return response.json({ id });ß
+        return response.json({ id });
     },
 
     async index(request, response) {

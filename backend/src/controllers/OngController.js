@@ -13,7 +13,7 @@ module.exports = {
          email,
          whatsapp,
          city,
-         ufß
+         uf
       })
 
       return response.json({ id });
